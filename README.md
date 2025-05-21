@@ -25,7 +25,7 @@ The project includes:
 
 Feedforward-Neural-Network-Julia/
 │
-├── PFAI\_Assignment\_03.ipynb   # Main notebook with code and explanations
+├── Feedforward_Neural_Network.ipynb   # Main notebook with code and explanations
 ├── README.md                  # Project description and instructions
 
 ````
@@ -74,5 +74,3 @@ This project was developed as part of an academic assignment to understand neura
 ## License
 
 This project is licensed under the MIT License.
-
-```
